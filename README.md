@@ -1,3 +1,8 @@
+
+<img src="https://i.pinimg.com/originals/33/b4/d4/33b4d47c13a625aeee4124d66599c31c.gif" alt="Description" style="width: 1000px; height: 200px; object-fit: cover;">
+
+
+
 # Hi there! 👋 I'm Evandita (づ｡◕‿‿◕｡)づ
 
 ## 💻 Ex Competitive Programmer | ⚔️ Beginner Penetration Tester 
