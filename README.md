@@ -2,6 +2,8 @@
 
 ## 💻 Ex Competitive Programmer | ⚔️ Beginner Penetration Tester 
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Bluewyn.png" alt="TryHackMe">
+
 Welcome to my GitHub profile! I'm passionate in Game Development, Cyber Security, and Mathematics.
 
 ### 🚀 About Me
