@@ -33,11 +33,4 @@ Welcome to my GitHub profile! I'm passionate in Game Development, Cyber Security
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/evandita-wiratama-273a61251/)
 
-### 📊 GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evandita&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evandita&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Evandita&theme=radical)
-
-
 
