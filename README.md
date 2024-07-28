@@ -29,6 +29,11 @@ Welcome to my GitHub profile! I'm passionate in Game Development, Cyber Security
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 
+### 🚩 Capture the Flag
+
+1. #4 in Pekan Ristek 2023
+2. #264 in Imaginary CTF 2024
+
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/evandita-wiratama-273a61251/)
