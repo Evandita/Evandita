@@ -31,8 +31,8 @@ Welcome to my GitHub profile! I'm passionate in Game Development, Cyber Security
 
 ### 🚩 Capture the Flag
 
-1. #4 in Pekan Ristek 2023
-2. #264 in Imaginary CTF 2024
+- #4 in Pekan Ristek 202
+- #264 in Imaginary CTF 2024
 
 ### 🌐 Connect with Me
 
