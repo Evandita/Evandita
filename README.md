@@ -4,6 +4,7 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Bluewyn.png" alt="TryHackMe">
 
+## 🙂 Profiles
 
 <div>
   <a href="https://tlx.toki.id/profiles/Cyrine/" style="margin-right:30px">
@@ -25,10 +26,16 @@
   <a href="https://play.picoctf.org/users/Bluewyn">
     <img src="https://assets.tryhackme.com/img/THMlogo.png" alt="TryHackMe" style="width: 40px; height: 40px">
   </a>
- 
-</div>
 
-Welcome to my GitHub profile! I'm passionate in Game Development, Cyber Security, and Mathematics.
+  <a href="https://app.hackthebox.com/users/2006110">
+    <img src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" alt="HackTheBox" style="width: 40px; height: 40px">
+  </a>
+
+  <a href="https://2024.imaginaryctf.org/User/2869.html">
+    <img src=" https://ctftime.org/media/events/logo_90.png" alt="ImaginaryCTF" style="width: 40px; height: 40px">
+  </a>
+  
+</div>
 
 ### 🚀 About Me
 
