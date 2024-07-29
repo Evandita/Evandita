@@ -6,33 +6,36 @@
 
 ## 🙂 Profiles
 
-<div>
-  <a href="https://tlx.toki.id/profiles/Cyrine/" style="margin-right:30px">
-    <img src="https://raw.githubusercontent.com/ia-toki/toki-assets/master/tlx/courses/pemrograman-dasar.png" alt="TLXToki" style="width: 40px; height: 40px;">
-  </a>
+
+
+<div  style="display: flex;">
+  
+  <a href="https://tlx.toki.id/profiles/Cyrine/">
+    <img src="https://raw.githubusercontent.com/ia-toki/toki-assets/master/tlx/courses/pemrograman-dasar.png" alt="TLXToki" style="width: 100px; height: 100px">
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://leetcode.com/u/evanditaw/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="Leetcode" style="width: 40px; height: 40px;">
-  </a>
-  
-  <a href="https://ui.hacktrace-ranges.id/users_profile/view/666016aa4b0ec">
-    <img src="https://media.licdn.com/dms/image/C560BAQF3pmnxPaoFYw/company-logo_200_200/0/1630665467713/hacktrace_logo?e=2147483647&v=beta&t=9NFubj4u9Y9n5Nfb-AfPTDbuWQpGh4fQsb9YcdnSol4" alt="Hacktrace" style="width: 40px; height: 40px">
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="Leetcode" style="width: 100px; height: 100px;">
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
    <a href="https://tryhackme.com/p/Bluewyn">
-    <img src="https://avatars.githubusercontent.com/u/5315773?s=280&v=4" alt="PicoCTF" style="width: 40px; height: 40px">
-  </a>
+    <img src="https://avatars.githubusercontent.com/u/5315773?s=280&v=4" alt="PicoCTF" style="width: 100px; height: 100px">
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://play.picoctf.org/users/Bluewyn">
-    <img src="https://assets.tryhackme.com/img/THMlogo.png" alt="TryHackMe" style="width: 40px; height: 40px">
-  </a>
+    <img src="https://assets.tryhackme.com/img/THMlogo.png" alt="TryHackMe" style="width: 100px; height: 100px">
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://app.hackthebox.com/users/2006110">
-    <img src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" alt="HackTheBox" style="width: 40px; height: 40px">
-  </a>
+    <img src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" alt="HackTheBox" style="width: 100px; height: 100px">
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+  <a href="https://ui.hacktrace-ranges.id/users_profile/view/666016aa4b0ec">
+    <img src="https://media.licdn.com/dms/image/C560BAQF3pmnxPaoFYw/company-logo_200_200/0/1630665467713/hacktrace_logo?e=2147483647&v=beta&t=9NFubj4u9Y9n5Nfb-AfPTDbuWQpGh4fQsb9YcdnSol4" alt="Hacktrace" style="width: 100px; height: 100px">
+  </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="https://2024.imaginaryctf.org/User/2869.html">
-    <img src="https://ctftime.org/media/events/logo_90.png" alt="ImaginaryCTF" style="width: 40px; height: 40px">
+    <img src="https://ctftime.org/media/events/logo_90.png" alt="ImaginaryCTF" style="width: 100px; height: 100px">
   </a>
   
 </div>
