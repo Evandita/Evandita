@@ -36,6 +36,8 @@ Welcome to my GitHub profile! I'm passionate in Game Development, Cyber Security
 
 ### 🌐 Connect with Me
 
+![](https://komarev.com/ghpvc/?username=Evandita)
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/evandita-wiratama-273a61251/)
 
 
