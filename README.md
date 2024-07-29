@@ -1,12 +1,12 @@
 # Hi there! 👋 I'm Evandita 
 
+![](https://komarev.com/ghpvc/?username=Evandita)
+
 ## 💻 Ex Competitive Programmer | ⚔️ Beginner Penetration Tester 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Bluewyn.png" alt="TryHackMe">
 
 ## 🙂 Profiles
-
-
 
 <div  style="display: flex;">
   
@@ -69,8 +69,6 @@
 - #264 in Imaginary CTF 2024
 
 ### 🌐 Connect with Me
-
-![](https://komarev.com/ghpvc/?username=Evandita)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/evandita-wiratama-273a61251/)
 
