@@ -32,7 +32,7 @@
   </a>
 
   <a href="https://2024.imaginaryctf.org/User/2869.html">
-    <img src=" https://ctftime.org/media/events/logo_90.png" alt="ImaginaryCTF" style="width: 40px; height: 40px">
+    <img src="https://ctftime.org/media/events/logo_90.png" alt="ImaginaryCTF" style="width: 40px; height: 40px">
   </a>
   
 </div>
