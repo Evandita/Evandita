@@ -67,6 +67,7 @@
 
 - #4 in Pekan Ristek 2023
 - #264 in Imaginary CTF 2024
+- #178 in TFC CTF 2024
 
 ### 🌐 Connect with Me
 
