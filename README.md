@@ -66,10 +66,10 @@
 
 ### 🚩 Capture the Flag
 
-- #4 in Pekan Ristek 2023
-- #264 in Imaginary CTF 2024
-- #178 in TFC CTF 2024
-- #159 in noobz CTF 2024 (Team 軟弱) - `5290 points`
+- #264 in Imaginary CTF 2024 - `Solo Bluewyn` - `1200 points`
+- #178 in TFC CTF 2024 - `Team 君` - `350 points`
+- #159 in noobz CTF 2024 - `Team 軟弱` - `5290 points`
+- #6 in HackerClass CTF COMPFEST 16 Wave 1 - `Team Crystal` - `4100 points`
 
 ### 🌐 Connect with Me
 
