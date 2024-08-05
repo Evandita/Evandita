@@ -37,6 +37,12 @@
   <a href="https://2024.imaginaryctf.org/User/2869.html">
     <img src="https://ctftime.org/media/events/logo_90.png" alt="ImaginaryCTF" style="width: 100px; height: 100px">
   </a>
+
+  <a href="https://ctf.n00bzunit3d.xyz/users/551">
+    <img src="https://ctf.n00bzunit3d.xyz/files/0fbe7cd94a7e8f16c0acf2ef7c7e7ed3/logo_ascii_1.png" alt="n00bzCTF" style="width: 100px; height: 100px">
+  </a>
+  
+  
   
 </div>
 
