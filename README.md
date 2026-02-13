@@ -19,11 +19,11 @@
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
    <a href="https://tryhackme.com/p/Bluewyn">
-    <img src="https://avatars.githubusercontent.com/u/5315773?s=280&v=4" alt="PicoCTF" style="width: 100px; height: 100px">
+<img src="https://assets.tryhackme.com/img/THMlogo.png" alt="TryHackMe" style="width: 100px; height: 100px">    
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://play.picoctf.org/users/Bluewyn">
-    <img src="https://assets.tryhackme.com/img/THMlogo.png" alt="TryHackMe" style="width: 100px; height: 100px">
+<img src="https://avatars.githubusercontent.com/u/5315773?s=280&v=4" alt="PicoCTF" style="width: 100px; height: 100px">    
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://app.hackthebox.com/users/2006110">
